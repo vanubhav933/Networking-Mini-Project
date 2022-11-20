@@ -1,0 +1,20 @@
+This proposed network is designed for banking system, our client requires 6 main 
+departments for their new outlet which are: 
+ Internal IT support 
+ ATM services 
+ Consumer Banking 
+ Investment Banking 
+ Loans 
+ Insurance 
+Below are the main goals of the network being to achieve several operational 
+objectives which are: 
+ Every department network is separated. All staffs can communicate through 
+emails and an internal chatting system using port 465. 
+ There should be a guest Wi-Fi is provided to customers. This is an isolated 
+network isolated with only web browsing capabilities. 
+ The IT department consists of a small team that the staffs are mainly 
+performing operational tasks instead of planning and implementations. Your 
+team is required to provide detail documentations so that the IT staffs can 
+troubleshoot their systems with references. 
+ Your team are working to strike a balance between network performance, 
+security and cost effectiveness so that your team can close this deal.
